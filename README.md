@@ -8,7 +8,7 @@
 E.g: If you have a directory called 'coolDir' that contains 160 files and it is inside other directory called 'coolDirFather', after running the code, the directory 'coolDirFather' will contain now the directories: 'coolDir' (49 files), 'coolDir1' (49 files), 'coolDir2' (49 files) and 'coolDir3' (13 files).
 
 ### How can I run it?
-1. Before running it, you will have to change the file 'quebraPastas.sh' permissions with `chmod`;
+1. Before running it, you will have to change the file 'separaPastas.sh' permissions with `chmod`;
 2. After running it, you will have to specify the path in which the directories that contain more than 49 files will be broken (in the case of the example above, the path of 'coolDirFather' directory);
 3. Wait for the program's execution (it may take a while according to how many files there are in each folder). If the directories are on a pendrive and you are running the program on it, do not touch the pendrive until the installation is complete;
 4. Done!
