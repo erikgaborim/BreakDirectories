@@ -13,4 +13,4 @@ E.g: If you have a directory called 'coolDir' that contains 160 files and it is 
 3. Wait for the program's execution (it may take a while according to how many files there are in each folder). If the directories are on a pendrive and you are running the program on it, do not touch the pendrive until the installation is complete;
 4. Done!
 
-I developed it because my grandmother's sewing machine couldn't open folders which contained more than 50 files, so this was really useful. Hopefully it's gonna help someone else :)
+I developed this because my grandmother's sewing machine couldn't open folders which contained more than 50 files, so this was really useful. Hopefully it's gonna help someone else :)
